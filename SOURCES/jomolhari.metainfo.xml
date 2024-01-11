@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>jomolhari</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Jomolhari</name>
+  <summary>Jomolhari a Bhutanese style font for Tibetan and Dzongkha</summary>
+  <description>
+    <p>
+      Jomolhari is an TrueType OpenType Bhutanese style font for Dzongkha and
+      Tibetan text. It is based on Bhutanese manuscript examples, supports the
+      Unicode and the Chinese encoding for Tibetan.
+      The font supports the standard combinations used in most texts.
+    </p>
+  </description>
+  <updatecontact>pnemade_at_redhat_dot_com</updatecontact>
+  <url type="homepage">https://sites.google.com/site/chrisfynn2/home/fonts/jomolhari</url>
+</component>
+
